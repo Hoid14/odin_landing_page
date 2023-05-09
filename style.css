@@ -159,6 +159,13 @@ img{
     color: #f9faf8;
     font-weight: 700;
 }
+.footer{
+    background-color: #1f2937;
+    color: #e5e7eb;
+    text-align: center;
+    font-size: 18px;
+    padding: 30px 60px;
+}
 
 
 
